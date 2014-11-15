@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Strap",
+    "longName": "Revolution UC Schedule",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Revolution UC Schedule",
+    "uuid": "13d3e204-5918-4def-a0ca-6bb698b91191",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
